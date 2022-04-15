@@ -1,0 +1,8 @@
+
+/* WRITE YOUR CODE IN HERE!!!!  */
+#board > div {
+    background-color: red;
+}
+#board > div:nth-child(even) {
+    background-color: black;
+}
